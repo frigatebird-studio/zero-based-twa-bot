@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.element {
+  display: flex;
+  min-width: 50%;
+  width: max-content;
+  margin-bottom: 10px;
+}
+
+.element > input {
+  width: 70%;
+  margin-right: 6px;
+  padding: 15px;
+  font-size: 1.3rem;
+}
+
+.element > button {
+  width: 30%;
+  font-size: 1.3rem;
+}
+
+.container > #serverRES {
+  font-size: 2rem;
+}

@@ -1,0 +1,9 @@
+# mainnet | testnet
+network: "testnet"
+port: 3000
+tgBotKey: "YOUR_TELEGRAM_BOT_KEY"
+mnemonic: "become sunny spring typhoon lend burden domain wealth judge cluster humble tortoise myself scissors creature this corn bread load vintage venue umbrella injury torture"
+jettonWalletAddress: "User Jetton Wallet Address"
+jettonDecimal: 12
+transferAmount: "1"
+ngrokAuthToken: "ngrokToken"
